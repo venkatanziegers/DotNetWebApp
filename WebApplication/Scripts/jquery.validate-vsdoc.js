@@ -11,7 +11,7 @@
  * under the terms set out in this paragraph. All notices and licenses
  * below are for informational purposes only.wwwzzz
  * $$$$$$$$$$$54ww
- * NUGET: END LICENSE TEXT */XXXXXXXXXasd123WWWWWWWWWWWWWWWWWdsfhg
+ * NUGET: END LICENSE TEXT */XXXXXXXXXasd123WWWWWWWWWWWWWWWWWdsfhgssss
 /*
 * This file has been commented to support Visual Studio Intellisense.
 * You should not use this file at runtime inside the browser--it is onlys
