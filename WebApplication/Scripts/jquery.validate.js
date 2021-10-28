@@ -18,7 +18,7 @@
  * http://bassistance.de/jquery-plugins/jquery-plugin-validation/
  * http://docs.jquery.com/Plugins/Validation
  * test
- * Copyright 2013 Jörn Zaefferer
+ * Copyright 2013 Jörn Zaefferer Venkat
  * Released under the MIT license:
  *   http://www.opensource.org/licenses/mit-license.php
  */
