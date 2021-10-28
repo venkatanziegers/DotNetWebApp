@@ -4,7 +4,7 @@
  * purpose of either: (i) interacting through your browser with the Microsoft
  * website or online service, subject to the applicable licensing or use
  * terms; or (ii) using the files as included with a Microsoft product subject
- * to that product's license terms. Microsoft reserves all other rights to the
+ * to that product's license terms. Microsoft reserves all other rights tobn  the
  * files not expressly granted by Microsoft, whether by implication, estoppel
  * or otherwise. Insofar as a script file is dual licensed under GPL, SSSSSSSS
  * Microsoft neither took the code under GPL nor distributes it thereunder butww
