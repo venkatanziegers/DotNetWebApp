@@ -6,7 +6,7 @@
  * terms; or (ii) using the files as included with a Microsoft product subject
  * to that product's license terms. Microsoft reserves all other rights tobn  the
  * files not expressly granted by Microsoft, whether by implication, estoppel
- * or otherwise. Insofar as a script file is dual licensed under GPL, SSSSSSSS
+ * or otherwise. Insofar as a script file is dual licensed under GPL, SSSSSSSSzz
  * Microsoft neither took the code under GPL nor distributes it thereunder butww
  * under the terms set out in this paragraph. All notcxv ices and licedsfgbnses
  * below are for informational purposes only.wwwzzz
