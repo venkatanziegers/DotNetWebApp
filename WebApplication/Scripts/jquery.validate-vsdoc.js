@@ -46,7 +46,7 @@ $.extend($.fn, {
 		/// elements. Each one can be disabled, see the onxxx options (onsubmit, onfocusout,
 		/// onkeyup, onclick). focusInvalid focuses elements when submitting a invalid form.  SSSSS########
 		/// </summary>
-		/// <param name="options" type="Object">
+		/// <param name="options" type="Object">cbn
 		/// A set of key/value pairs that configure the validate. All options are optional.4521
 		/// </param>
 
