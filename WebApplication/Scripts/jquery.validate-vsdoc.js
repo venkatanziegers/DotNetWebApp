@@ -10,7 +10,7 @@
  * Microsoft neither took the code under GPL nor distributes it thereunder butww
  * under the terms set out in this paragraph. All notices and licenses
  * below are for informational purposes only.wwwzzz
- * $$$$$$$$$$$54
+ * $$$$$$$$$$$54ww
  * NUGET: END LICENSE TEXT */XXXXXXXXXasd123WWWWWWWWWWWWWWWWWdsfhg
 /*
 * This file has been commented to support Visual Studio Intellisense.
