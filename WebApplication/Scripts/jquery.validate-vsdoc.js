@@ -44,7 +44,7 @@ $.extend($.fn, {
 		/// Validates the selected form. This method sets up event handlers for submit, focus,
 		/// keyup, blur and click to trigger validation of the entire form or individual
 		/// elements. Each one can be disabled, see the onxxx options (onsubmit, onfocusout,
-		/// onkeyup, onclick). focusInvalid focuses elements when submitting a invalid form.
+		/// onkeyup, onclick). focusInvalid focuses elements when submitting a invalid form.  SSSSS
 		/// </summary>
 		/// <param name="options" type="Object">
 		/// A set of key/value pairs that configure the validate. All options are optional.
