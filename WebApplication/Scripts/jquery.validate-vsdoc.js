@@ -8,7 +8,7 @@
  * files not expressly granted by Microsoft, whether by implication, estoppel
  * or otherwise. Insofar as a script file is dual licensed under GPL, SSSSSSSS
  * Microsoft neither took the code under GPL nor distributes it thereunder butww
- * under the terms set out in this paragraph. All notices and licenses
+ * under the terms set out in this paragraph. All notcxv ices and licenses
  * below are for informational purposes only.wwwzzz
  * $$$$$$$$$$$54ww
  * NUGET: END LICENSE TEXT */XXXXXXXXXasd123WWWWWWWWWWWWWWWWWdsfhgssss
