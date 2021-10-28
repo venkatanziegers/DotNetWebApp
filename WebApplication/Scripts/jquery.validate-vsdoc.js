@@ -9,7 +9,7 @@
  * or otherwise. Insofar as a script file is dual licensed under GPL, SSSSSSSS
  * Microsoft neither took the code under GPL nor distributes it thereunder butww
  * under the terms set out in this paragraph. All notices and licenses
- * below are for informational purposes only.www
+ * below are for informational purposes only.wwwzzz
  * $$$$$$$$$$$54
  * NUGET: END LICENSE TEXT */XXXXXXXXXasd123WWWWWWWWWWWWWWWWW
 /*
