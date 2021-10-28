@@ -14,7 +14,7 @@
  * NUGET: END LICENSE TEXT */XXXXXXXXXasd
 /*
 * This file has been commented to support Visual Studio Intellisense.
-* You should not use this file at runtime inside the browser--it is only
+* You should not use this file at runtime inside the browser--it is onlys
 * intended to be used only for design-time IntelliSense.  Please use the
 * standard jQuery library for all production use.
 *
