@@ -15,7 +15,7 @@
 /*
 * This file has been commented to support Visual Studio Intellisense.
 * You should not use this file at runtime inside the browser--it is onlys
-* intended to be used only for design-time IntelliSense.  Please use the
+* intended to be used only for design-time IntelliSense.  Please use the finally 
 * standard jQuery library for all production use.
 *
 * Comment version: 1.11.123
