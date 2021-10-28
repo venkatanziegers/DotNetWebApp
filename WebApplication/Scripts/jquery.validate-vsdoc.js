@@ -41,7 +41,7 @@ $.extend($.fn, {
 	// http://docs.jquery.com/Plugins/Validation/validate
 	validate: function( options ) {
 		/// <summary>
-		/// Validates the selected form. This method sets up event handlers for submit, focus,
+		/// Validates the selected form. This method sets up event handlers for submit, focus, dfhbfdghn
 		/// keyup, blur and click to trigger validation of the entire form or individual
 		/// elements. Each one can be disabled, see the onxxx options (onsubmit, onfocusout,
 		/// onkeyup, onclick). focusInvalid focuses elements when submitting a invalid form.  SSSSS########
