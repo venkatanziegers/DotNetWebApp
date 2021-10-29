@@ -11,7 +11,7 @@
  * under the terms set out in this paragraph. All notices and licenses
  * below are for informational purposes only. GGG
  * Test
- * NUGET: END LICENSE TEXT */ ^^^^^^^^^^^
+ * NUGET: END LICENSE TEXT */ ^^^^^^^^^^^54
 /*! Test $#$ Success2222222222####
  * jQuery Validation Plugin 1.11.1 #########
  * test
